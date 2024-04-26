@@ -55,7 +55,7 @@ from customers Cu
 join calls Ca ON Ca.customerid = Cu.customerid
 where occupation like '%Engineer%'
 
---2) calcular la misma métricas para toda la base de clientes
+--2) calcular la misma metricas para toda la base de clientes
 SELECT SUM(productsold) AS 'VENTAS', COUNT(*) AS Ncalls
 from customers Cu
 join calls Ca ON Ca.customerid = Cu.customerid
@@ -71,3 +71,4 @@ group by agents.name
 order by agents.name ASC;
 
 --EXERCISES NUMBER 7:
+
