@@ -1,12 +1,11 @@
 # Curso de Data Engineer - Coderhouse
 
-Este repositorio contiene los desafios y practicos del curso de Ingenieria de Datos de la academia Coderhouse. Cada semana se subiran los desafios y practicos correspondientes.
+Este repositorio contiene los desafios y practicos del curso de Data Engineering de la academia Coderhouse. Cada semana se subiran los desafios y practicos correspondientes.
 
 ## Tecnologias Utilizadas
 
 - SQL
 - Python
-- PostgreSQL
 - Amazon Redshift
 - Docker
 - Apache Spark
