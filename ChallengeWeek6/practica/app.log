@@ -1,0 +1,130 @@
+root - WARNING - No active connection to close.
+root - WARNING - No active connection to close.
+root - WARNING - No active connection to close.
+root - WARNING - No active connection to close.
+root - WARNING - No active connection to close.
+root - INFO - Connection created
+root - INFO - Creacion de data
+root - WARNING - Check the data format
+root - INFO - rename columns
+root - INFO - change index
+root - INFO - add date to stage the data
+root - INFO - Creacion de data
+root - WARNING - Check the data format
+root - INFO - save the data
+root - INFO - <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 48 entries, 0 to 47
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   specific_area  48 non-null     object 
+ 1   stock_actions  48 non-null     float64
+ 2   revenue        48 non-null     float64
+ 3   value          48 non-null     float64
+ 4   avg_data       48 non-null     float64
+ 5   date_to_stage  48 non-null     object 
+dtypes: float64(4), object(2)
+memory usage: 2.4+ KB
+
+root - ERROR - Failed to upload data to juanzamar93_coderhouse.stage_yfinance_google: 'Engine' object has no attribute 'cursor'
+root - INFO - Connection to Redshift closed.
+root - INFO - Connection created
+root - INFO - Creacion de data
+root - WARNING - Check the data format
+root - INFO - rename columns
+root - INFO - change index
+root - INFO - add date to stage the data
+root - INFO - Creacion de data
+root - WARNING - Check the data format
+root - INFO - save the data
+root - INFO - <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 48 entries, 0 to 47
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   specific_area  48 non-null     object 
+ 1   stock_actions  48 non-null     float64
+ 2   revenue        48 non-null     float64
+ 3   value          48 non-null     float64
+ 4   avg_data       48 non-null     float64
+ 5   date_to_stage  48 non-null     object 
+dtypes: float64(4), object(2)
+memory usage: 2.4+ KB
+
+root - ERROR - Failed to upload data to juanzamar93_coderhouse.stage_yfinance_google: 'Engine' object has no attribute 'cursor'
+root - INFO - Connection to Redshift closed.
+root - INFO - Connection created
+root - INFO - Creacion de data
+root - WARNING - Check the data format
+root - INFO - rename columns
+root - INFO - change index
+root - INFO - add date to stage the data
+root - INFO - Creacion de data
+root - WARNING - Check the data format
+root - INFO - save the data
+root - INFO - <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 48 entries, 0 to 47
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   specific_area  48 non-null     object 
+ 1   stock_actions  48 non-null     float64
+ 2   revenue        48 non-null     float64
+ 3   value          48 non-null     float64
+ 4   avg_data       48 non-null     float64
+ 5   date_to_stage  48 non-null     object 
+dtypes: float64(4), object(2)
+memory usage: 2.4+ KB
+
+root - INFO - Data from the DataFrame has been uploaded to the juanzamar93_coderhouse.stage_yfinance_google table in Redshift.
+root - INFO - Connection to Redshift closed.
+2024-06-04 16:04:10,654, root - INFO - Connection created
+2024-06-04 16:04:10,655, root - INFO - Creacion de data
+2024-06-04 16:04:11,971, root - WARNING - Check the data format
+2024-06-04 16:04:11,971, root - INFO - rename columns
+2024-06-04 16:04:11,971, root - INFO - change index
+2024-06-04 16:04:11,971, root - INFO - add date to stage the data
+2024-06-04 16:04:11,971, root - INFO - Creacion de data
+2024-06-04 16:04:11,971, root - WARNING - Check the data format
+2024-06-04 16:04:11,971, root - INFO - save the data
+2024-06-04 16:04:11,991, root - INFO - <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 48 entries, 0 to 47
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   specific_area  48 non-null     object 
+ 1   stock_actions  48 non-null     float64
+ 2   revenue        48 non-null     float64
+ 3   value          48 non-null     float64
+ 4   avg_data       48 non-null     float64
+ 5   date_to_stage  48 non-null     object 
+dtypes: float64(4), object(2)
+memory usage: 2.4+ KB
+
+2024-06-04 16:04:21,374, root - INFO - Data from the DataFrame has been uploaded to the juanzamar93_coderhouse.stage_yfinance_google table in Redshift.
+2024-06-04 16:04:21,376, root - INFO - Connection to Redshift closed.
+2024-06-17 18:14:25,514, root - INFO - Connection created
+2024-06-17 18:14:25,514, root - INFO - Creacion de data
+2024-06-17 18:14:28,013, root - WARNING - Check the data format
+2024-06-17 18:14:28,014, root - INFO - rename columns
+2024-06-17 18:14:28,014, root - INFO - change index
+2024-06-17 18:14:28,014, root - INFO - add date to stage the data
+2024-06-17 18:14:28,014, root - INFO - Creacion de data
+2024-06-17 18:14:28,015, root - WARNING - Check the data format
+2024-06-17 18:14:28,016, root - INFO - save the data
+2024-06-17 18:14:28,017, root - INFO - <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 48 entries, 0 to 47
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   specific_area  48 non-null     object 
+ 1   stock_actions  48 non-null     float64
+ 2   revenue        48 non-null     float64
+ 3   value          48 non-null     float64
+ 4   avg_data       48 non-null     float64
+ 5   date_to_stage  48 non-null     object 
+dtypes: float64(4), object(2)
+memory usage: 2.4+ KB
+
+2024-06-17 18:14:40,780, root - INFO - Data from the DataFrame has been uploaded to the juanzamar93_coderhouse.stage_yfinance_google table in Redshift.
+2024-06-17 18:14:40,780, root - INFO - Connection to Redshift closed.
