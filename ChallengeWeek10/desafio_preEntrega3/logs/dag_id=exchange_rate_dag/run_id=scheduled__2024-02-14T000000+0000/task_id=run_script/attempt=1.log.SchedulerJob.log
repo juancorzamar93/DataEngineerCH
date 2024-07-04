@@ -1,0 +1,1 @@
+[2024-07-03T22:03:30.025+0000] {scheduler_job_runner.py:769} ERROR - Executor reports task instance <TaskInstance: exchange_rate_dag.run_script scheduled__2024-02-14T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
