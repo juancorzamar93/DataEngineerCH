@@ -1,0 +1,42 @@
+[2024-07-05T01:30:05.108+0000] {processor.py:161} INFO - Started process (PID=103) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:30:05.168+0000] {processor.py:830} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-07-05T01:30:05.306+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:30:05.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:30:05.500+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:30:05.951+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:30:05.951+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-05T01:30:06.454+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:30:06.453+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-07-05T01:30:07.501+0000] {processor.py:183} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.698 seconds
+[2024-07-05T01:31:58.582+0000] {processor.py:161} INFO - Started process (PID=177) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:31:58.629+0000] {processor.py:830} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-07-05T01:31:58.721+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:31:58.714+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:31:58.857+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:31:59.097+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:31:59.097+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-05T01:31:59.115+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:31:59.115+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-07-05T01:31:59.336+0000] {processor.py:183} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.841 seconds
+[2024-07-05T01:33:12.698+0000] {processor.py:161} INFO - Started process (PID=243) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:33:12.703+0000] {processor.py:830} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-07-05T01:33:12.712+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:33:12.707+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:33:12.744+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:33:12.944+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:33:12.942+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-05T01:33:13.077+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:33:13.074+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-07-05T01:33:13.174+0000] {processor.py:183} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.493 seconds
+[2024-07-05T01:36:32.017+0000] {processor.py:161} INFO - Started process (PID=67) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:36:32.021+0000] {processor.py:830} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-07-05T01:36:32.025+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:36:32.024+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:36:32.045+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:36:32.145+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:36:32.144+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-05T01:36:32.196+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:36:32.196+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-07-05T01:36:32.311+0000] {processor.py:183} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.301 seconds
+[2024-07-05T01:37:21.110+0000] {processor.py:161} INFO - Started process (PID=141) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:37:21.154+0000] {processor.py:830} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-07-05T01:37:21.158+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:37:21.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:37:21.242+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:37:21.326+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:37:21.325+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-05T01:37:21.407+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:37:21.407+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-07-05T01:37:22.210+0000] {processor.py:183} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.108 seconds
+[2024-07-05T01:38:39.302+0000] {processor.py:161} INFO - Started process (PID=226) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:38:39.306+0000] {processor.py:830} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-07-05T01:38:39.309+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:38:39.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:38:39.334+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-07-05T01:38:39.719+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:38:39.718+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-05T01:38:39.813+0000] {logging_mixin.py:188} INFO - [2024-07-05T01:38:39.812+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-07-05T01:38:39.953+0000] {processor.py:183} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.668 seconds
