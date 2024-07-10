@@ -23,7 +23,7 @@ COPY requirements.txt $AIRFLOW_HOME/requirements.txt
 RUN pip install --no-cache-dir -r $AIRFLOW_HOME/requirements.txt
 
 # Copy DAGs and modules
-COPY dags/ $AIRFLOW_HOME/dags/
+COPY dags / $AIRFLOW_HOME/dags/
 
 # Copy the .env file
 COPY .env /opt/airflow/.env
