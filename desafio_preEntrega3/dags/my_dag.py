@@ -241,7 +241,7 @@ def load_data_task(**kwargs):
 default_args = {
     'owner': 'juan_ml',
     'depends_on_past': False,
-    'start_date': datetime(2024, 1, 1),
+    'start_date': datetime(2024, 6, 1),
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
